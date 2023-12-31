@@ -17,6 +17,6 @@ My name is Wslt, and I'm an 18-year-old programmer and game modder. I'm commonly
 ## PC Specs
 ![Windows 10](https://img.shields.io/badge/Windows-10_Pro-blue?logo=windows10)
 ![Intel i7-13700k](https://img.shields.io/badge/Intel-i7%2013700k-blue?logo=intel)
-![MSI GeForce RTX 3060 Ti](https://img.shields.io/badge/MSI-GeForce%20RTX%203060%20Ti-blue?logo=nvidia)
+![MSI GeForce RTX 4080](https://img.shields.io/badge/MSI-GeForce%20RTX%204080-blue?logo=nvidi)
 ![MSI MAG B760 Tomahawk](https://img.shields.io/badge/MSI-MAG%20B760%20Tomahawk-blue?logo=msi)
 ![CORSAIR VENGEANCE DDR5 RAM](https://img.shields.io/badge/CORSAIR-VENGEANCE%20DDR5%20RAM%2032GB%20(2x16GB)%206000MHz-blue?logo=corsair)
