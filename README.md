@@ -1,5 +1,5 @@
 # Hello! 👋
-My name is Wslt, and I'm an 19-year-old programmer and game modder. I'm commonly known as the owner and solo developer of Galaxy Swapper v2. I've been coding since 2017 and game modding since 2018.
+My name is Wslt, and I'm an 20-year-old programmer and game modder. I'm commonly known as the owner and solo developer of Galaxy Swapper v2. I've been coding since 2017 and game modding since 2018.
 
 ## Languages
 - **Main Language:** C#
